@@ -8,4 +8,4 @@ This dataset was directly inspired by the devastating flash floods on August 5, 
 Curation Breakdown:
 The 252 rows in Uttarakhand_floods_1970_2025.xlsx consist of:
 - 120 Entries: Extracted, cross-referenced, and modernized from the foundational academic data note by Manish Singh Rana and Chandan Mahanta (IIT Guwahati).
-- 132 Entries: Manually mined, verified, and standardized from primary public records (SANDRAP, USDMA, SEOC) and satellite data to cover events through 2025.
+- 132 Entries: Manually mined, verified, and standardized from primary public records (SANDRP, USDMA, SEOC) and satellite data to cover events through 2025.
